@@ -8,3 +8,4 @@ A Design Systems Consultant & Product Designer focused on helping teams build, s
 - Ask me about design systems, tokens, Figma variables, governance, or scaling UI
 
 🔗 How to reach me: LinkedIn → [Marta Conde](https://www.linkedin.com/notifications/?filter=all)
+🔗 [Curso para Crear un Design System Agéntico con IA](https://cmdbase.es/)
